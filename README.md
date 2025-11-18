@@ -8,6 +8,6 @@ Im a student and tinkerer. I channel curiosity into functional code, exploring c
 ![](https://github-readme-stats.vercel.app/api?username=Maximiliam-Cichello&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maximiliam-Cichello&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Xamelindoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
